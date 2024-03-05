@@ -1,0 +1,21 @@
+{
+  "name": "solidityscribe",
+  "version": "1.0.0",
+  "description": "Leverages EtherOps to provide smart contract development insights, including static analysis and testing preparation.",
+  "main": "main.js",
+  "dependencies": {
+    "etherops": "^1.0.0",
+    "solhint": "^3.3.6",
+    "@truffle/contract": "^4.3.36",
+    "fs": "0.0.1-security"
+  },
+  "scripts": {
+    "test": "echo \"No tests defined\""
+  },
+  "author": "qxxb",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/qxxb/solidityscribe.git"
+  }
+}
